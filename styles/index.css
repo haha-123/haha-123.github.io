@@ -1,1 +1,3 @@
 html,body,ul,li,p{ margin: 0; padding: 0; list-style: none; line-height: 100%;}
+
+p{font-size: 26px; line-height: 35px; color: #000;}
